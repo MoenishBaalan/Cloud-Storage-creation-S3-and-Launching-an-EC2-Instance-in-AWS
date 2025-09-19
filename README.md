@@ -74,7 +74,7 @@ d)	Steps to Clean Up (Terminate the Instance)
 
 Snap Shot 1: 
 
-<img width="1004" height="539" alt="488744871-7bcbc34a-925f-45be-b177-e82e38f39bbc" src="https://github.com/user-attachments/assets/2f5c6e23-dc4f-41d7-97b5-21c25906f626" />
+<img width="1225" height="654" alt="image" src="https://github.com/user-attachments/assets/e228ec89-ffb0-46ba-8cfd-15c701b4528c" />
 
 
 Simple Storage Service (S3)
@@ -82,12 +82,10 @@ Simple Storage Service (S3)
 
 Snap Shot 2: 
 
-<img width="981" height="583" alt="488745020-3f6f7b88-7425-4179-a1e3-bc1a85fb1372" src="https://github.com/user-attachments/assets/c3acaf1d-7370-4a3d-aa25-7ead00800564" />
-
+<img width="1174" height="668" alt="image" src="https://github.com/user-attachments/assets/0f9907d7-aa31-4278-8e91-fb9a6a76f913" />
 
 
 EC2 (Elastic Compute Cloud) – Instance
-
 
 
 
